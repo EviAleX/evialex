@@ -4,7 +4,6 @@
 </br>Student of <a href="https://www.sgh.waw.pl/en">Warsaw School of Economics</a>
 </em></p>
 
-
 ### Hi there! I'm Alex
 ## 💫 About Me:
 <br>🤔 Exploring new technologies and developing software solutions and quick hacks.<br>🎓 Studying at Warsaw School of Economics.<br>💼 Working as Junior Data Science Analyst at GMS Management Solutions.<br>📚 Learning more about FrontEnd Development, System Design and Artificial Intelligence.<br>✈ Pursuing Sport Activities and trying to learn something new every day.
