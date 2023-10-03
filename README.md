@@ -5,8 +5,8 @@
 </em></p>
 
 [![Facebook: Contact](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/aleksander.mazur.77)
-[![Linkedin: Aleksander Mazur](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/aleksander-mazur-bb3416253/)
-[![Instagram Alex](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://www.instagram.com/evi_alex.pl/)
+[![LinkedIn: Contact](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your_profile)
+[![Instagram: Contact](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/your_username)
 
 ### Hi there! I'm Alex
 ## 💫 About Me:
