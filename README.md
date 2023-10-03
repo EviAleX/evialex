@@ -10,6 +10,34 @@
 
 ### A little more about me...  
 
+```javascript
+const aleX = {
+    pronouns: "He" | "Him",
+    code: ["Javascript", "Python", "R", "Matlab", "SQL"],
+    askMeAbout: ["web dev", "tech", "data science", "investments"],
+    projects: {
+        carbonFootprint: {
+            projectName: ["Carbon footprint calculations in D-SIB"],
+            technologies: ["Teradata SQL Assistant", "Power BI"],
+            tasks: ["Data quality", "PCAF methodology", "Code optimalizations"]
+        },
+        physicalRisk: {
+            projectName: ["Calculating Physical Risk for Polish cities"],
+            technologies: ["Python", "Anaconda"],
+            tasks: ["Knowledge of Climada tool", "Calculating Physical risk"]
+        },
+        riskAssessment: {
+            projectName: ["Climate risk assessment for European bank"],
+            technologies: ["R", "Python", "Jupiter"],
+            tasks: ["Copernicus data base", "Application for physical risk", "Development of heatmaps"]
+        },
+        otherProject: ["Will come soon!"]
+    },
+    interests: ["Calisthenics", "Reading", "Cars and everything about them", "I'am somenthing a cooker myself"],
+    currentProject: "I am developing application which will calculate physical activies for countries based on data base of Copernicus",
+    funFact: "The idea of template was stolen, rewriten with ChatGPT and addapted to my lifestyle"
+};
+```
 
 
 
