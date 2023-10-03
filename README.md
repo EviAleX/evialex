@@ -3,6 +3,15 @@
 <p><em>Junior Data Science Analyst at <a href="https://www.managementsolutions.com/en">Management Solutions</a><img src="https://media3.giphy.com/media/3o7bu79VY9ruoYHPs4/giphy.gif" width="30"> 
 </em></p>
 
+
+
+<h2> Hi, I'm Alex! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<p><em>Software Enginner at <a href="http://www.unb.br">University of Brasilia</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
+
+
+
 ### Hi there! I'm Alex
 ## 💫 About Me:
 <br>🤔 Exploring new technologies and developing software solutions and quick hacks.<br>🎓 Studying at Warsaw School of Economics.<br>💼 Working as Junior Data Science Analyst at GMS Management Solutions.<br>📚 Learning more about FrontEnd Development, System Design and Artificial Intelligence.<br>✈ Pursuing Sport Activities and trying to learn something new every day.
