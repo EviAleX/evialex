@@ -6,7 +6,7 @@
 
 [![Facebook: Contact](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/aleksander.mazur.77)
 [![LinkedIn: Contact](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your_profile)
-[![Instagram: Contact](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/your_username)
+[![Alex profile](https://img.shields.io/badge/Alex_profile-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/your_username)
 
 ### Hi there! I'm Alex
 ## 💫 About Me:
