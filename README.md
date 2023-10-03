@@ -4,6 +4,10 @@
 </br>Student of <a href="https://www.sgh.waw.pl/en">Warsaw School of Economics</a>
 </em></p>
 
+[![Facebook: Contact](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/aleksander.mazur.77)
+[![Linkedin: Aleksander Mazur](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/aleksander-mazur-bb3416253/)
+[![Instagram Alex](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://www.instagram.com/evi_alex.pl/)
+
 ### Hi there! I'm Alex
 ## 💫 About Me:
 <br>🤔 Exploring new technologies and developing software solutions and quick hacks.<br>🎓 Studying at Warsaw School of Economics.<br>💼 Working as Junior Data Science Analyst at GMS Management Solutions.<br>📚 Learning more about FrontEnd Development, System Design and Artificial Intelligence.<br>✈ Pursuing Sport Activities and trying to learn something new every day.
