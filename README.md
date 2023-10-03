@@ -1,6 +1,6 @@
 <h2>Hi there! I'm AleX</h2>
 <img align='right' src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="230">
-<p><em>Junior Data Science Analyst at <a href="https://www.managementsolutions.com/en">Management Solutions</a><img src="https://media.giphy.com/media/3o7bu79VY9ruoYHPs4/giphy.gif" width="30"> 
+<p><em>Junior Data Science Analyst at <a href="https://www.managementsolutions.com/en">Management Solutions</a>
 </em></p>
 
 
