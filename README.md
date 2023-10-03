@@ -8,7 +8,7 @@
 [![Work contact](https://img.shields.io/badge/Work_contact-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aleksander-mazur-bb3416253/)
 [![Personal life](https://img.shields.io/badge/Personal_life-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/evi_alex.pl/)
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### A little more about me...  
 
 
 
