@@ -1,3 +1,8 @@
+<h2>Hi there! I'm AleX</h2>
+<img align='right' src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="230">
+<p><em>Junior Data Science Analyst at <a href="https://www.managementsolutions.com/en">Management Solutions</a><img src="https://media3.giphy.com/media/3o7bu79VY9ruoYHPs4/giphy.gif" width="30"> 
+</em></p>
+
 ### Hi there! I'm Alex
 ## 💫 About Me:
 <br>🤔 Exploring new technologies and developing software solutions and quick hacks.<br>🎓 Studying at Warsaw School of Economics.<br>💼 Working as Junior Data Science Analyst at GMS Management Solutions.<br>📚 Learning more about FrontEnd Development, System Design and Artificial Intelligence.<br>✈ Pursuing Sport Activities and trying to learn something new every day.
