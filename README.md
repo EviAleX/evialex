@@ -1,5 +1,5 @@
 <h2>Hi there! I'm AleX</h2>
-<img align='right' src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="20" style="margin-left: 10px;">
+<img align='right' src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" style="margin-left: 10px;">
 <p><em>Junior Data Science Analyst at <a href="https://www.managementsolutions.com/en">Management Solutions</a>
 </br>Student of <a href="https://www.sgh.waw.pl/en">Warsaw School of Economics</a>
 </em></p>
