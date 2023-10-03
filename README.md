@@ -4,8 +4,8 @@
 </br>Student of <a href="https://www.sgh.waw.pl/en">Warsaw School of Economics</a>
 </em></p>
 
-[![Facebook: Contact](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/aleksander.mazur.77)
-[![LinkedIn: Contact](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your_profile)
+[![I am rarely here](https://img.shields.io/badge/I_am_rarely_here-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/aleksander.mazur.77)
+[![Work contact](https://img.shields.io/badge/Work_contact-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aleksander-mazur-bb3416253/)
 [![Personal life](https://img.shields.io/badge/Personal_life-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/evi_alex.pl/)
 
 ### Hi there! I'm Alex
