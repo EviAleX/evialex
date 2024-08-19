@@ -18,8 +18,8 @@ const AleX = {
     projects: {
         carbonFootprint: {
             projectName: ["Carbon footprint calculations in D-SIB"],
-            technologies: ["Teradata SQL Assistant", "Power BI"],
-            tasks: ["Data quality", "PCAF methodology", "Code optimalizations"]
+            technologies: ["Teradata SQL Assistant", "MS SQL", "Power BI"],
+            tasks: ["Data quality", "PCAF methodology", "Code documentation"]
         },
         physicalRisk: {
             projectName: ["Calculating Physical Risk for Polish cities"],
@@ -35,7 +35,7 @@ const AleX = {
     },
     interests: ["Calisthenics", "Reading", "Cars and everything about them", "I'am somenthing a cooker myself"],
     currentProject: "I am developing application which will calculate physical activies for countries based on data base of Copernicus",
-    funFact: "The idea of template was stolen, rewriten with ChatGPT and addapted to my lifestyle"
+    funFact: "Debugging in programming was named after the incident mentioned above. Grace Hopper's team removed the moth from the computer and kept it as a specimen in their logbook."
 };
 ```
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b></em>
@@ -108,3 +108,5 @@ JavaScript               1 repo              ███████████�
 
  Last Updated on 19/08/2024 14:00:57 UTC
 <!--END_SECTION:waka-->
+
+NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
