@@ -11,7 +11,7 @@
 ### A little more about me...  
 
 ```javascript
-const aleX = {
+const AleX = {
     pronouns: "He" | "Him",
     code: ["Javascript", "Python", "R", "Matlab", "SQL"],
     askMeAbout: ["web dev", "tech", "data science", "investments"],
