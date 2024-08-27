@@ -49,7 +49,7 @@ const AleX = {
 
 **🐱 My GitHub Data** 
 
-> 📦 505 Bytes Used in GitHub's Storage 
+> 📦 506 Bytes Used in GitHub's Storage 
  > 
 > 🏆 12 Contributions in the Year 2024
  > 
@@ -86,14 +86,13 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-Markdown                 4 mins              █████████████████░░░░░░░░   69.06 % 
-Python                   2 mins              ████████░░░░░░░░░░░░░░░░░   30.94 % 
+Python                   13 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  7 mins              █████████████████████████   100.00 % 
+VS Code                  13 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  7 mins              █████████████████████████   100.00 % 
+Windows                  13 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in MATLAB** 
@@ -106,7 +105,7 @@ JavaScript               1 repo              ███████████�
 
 
 
- Last Updated on 26/08/2024 01:34:19 UTC
+ Last Updated on 27/08/2024 01:34:45 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
