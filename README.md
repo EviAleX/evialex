@@ -49,9 +49,7 @@ const AleX = {
 
 **🐱 My GitHub Data** 
 
-> 📦 506 Bytes Used in GitHub's Storage 
- > 
-> 🏆 12 Contributions in the Year 2024
+> 📦 507 Bytes Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -105,7 +103,7 @@ JavaScript               1 repo              ███████████�
 
 
 
- Last Updated on 29/08/2024 01:36:18 UTC
+ Last Updated on 30/08/2024 01:36:51 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
