@@ -86,13 +86,14 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-Julia                    0 secs              █████████████████████████   100.00 % 
+Python                   24 mins             ████████████████████████░   97.79 % 
+Julia                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.00 % 
+VS Code                  25 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  0 secs              █████████████████████████   100.00 % 
+Windows                  25 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in MATLAB** 
@@ -105,7 +106,7 @@ JavaScript               1 repo              ███████████�
 
 
 
- Last Updated on 10/10/2024 01:42:06 UTC
+ Last Updated on 11/10/2024 01:41:53 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
