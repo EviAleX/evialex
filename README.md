@@ -41,7 +41,7 @@ const AleX = {
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b></em>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-43%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-43%20hrs%208%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -86,8 +86,7 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-Python                   49 mins             █████████████████████████   98.88 % 
-Julia                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
+Python                   49 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
 VS Code                  49 mins             █████████████████████████   100.00 % 
@@ -106,7 +105,7 @@ JavaScript               1 repo              ███████████�
 
 
 
- Last Updated on 15/10/2024 01:43:49 UTC
+ Last Updated on 16/10/2024 01:43:59 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
