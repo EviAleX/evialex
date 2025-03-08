@@ -86,13 +86,16 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               9 mins              ███████████████████░░░░░░   77.34 % 
+HTML                     1 min               ████░░░░░░░░░░░░░░░░░░░░░   16.11 % 
+Python                   0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   06.29 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  12 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  12 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in MATLAB** 
@@ -105,7 +108,7 @@ JavaScript               1 repo              ███████████�
 
 
 
- Last Updated on 07/03/2025 01:47:54 UTC
+ Last Updated on 08/03/2025 01:20:13 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
