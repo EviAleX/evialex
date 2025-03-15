@@ -41,7 +41,7 @@ const AleX = {
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b></em>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-62%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-62%20hrs%2017%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -50,6 +50,8 @@ const AleX = {
 **🐱 My GitHub Data** 
 
 > 📦 576 Bytes Used in GitHub's Storage 
+ > 
+> 🏆 0 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -84,17 +86,17 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-Python                   6 hrs 58 mins       ████████████████████████░   97.25 % 
-JavaScript               9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
-HTML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
+Python                   7 hrs 9 mins        ████████████████████████░   97.32 % 
+JavaScript               9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
+HTML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
 CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-PyCharm                  6 hrs 57 mins       ████████████████████████░   97.07 % 
-VS Code                  12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
+PyCharm                  7 hrs 8 mins        ████████████████████████░   97.14 % 
+VS Code                  12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
 
 💻 Operating System: 
-Windows                  7 hrs 10 mins       █████████████████████████   100.00 % 
+Windows                  7 hrs 21 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in MATLAB** 
@@ -107,7 +109,7 @@ JavaScript               1 repo              ███████████�
 
 
 
- Last Updated on 14/03/2025 01:46:55 UTC
+ Last Updated on 15/03/2025 01:46:06 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
