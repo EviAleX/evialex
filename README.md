@@ -41,7 +41,7 @@ const AleX = {
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b></em>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-67%20hrs%2023%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-69%20hrs%204%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -49,7 +49,7 @@ const AleX = {
 
 **🐱 My GitHub Data** 
 
-> 📦 577 Bytes Used in GitHub's Storage 
+> 📦 578 Bytes Used in GitHub's Storage 
  > 
 > 🏆 0 Contributions in the Year 2025
  > 
@@ -86,15 +86,14 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-Python                   9 hrs 44 mins       █████████████████████████   99.95 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+Python                   11 hrs 41 mins      █████████████████████████   100.00 % 
 
 🔥 Editors: 
-PyCharm                  9 hrs 20 mins       ████████████████████████░   95.90 % 
-VS Code                  23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
+PyCharm                  9 hrs 56 mins       █████████████████████░░░░   85.06 % 
+VS Code                  1 hr 44 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.94 % 
 
 💻 Operating System: 
-Windows                  9 hrs 44 mins       █████████████████████████   100.00 % 
+Windows                  11 hrs 41 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in MATLAB** 
@@ -107,7 +106,7 @@ JavaScript               1 repo              ███████████�
 
 
 
- Last Updated on 18/03/2025 01:49:15 UTC
+ Last Updated on 19/03/2025 01:49:25 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
