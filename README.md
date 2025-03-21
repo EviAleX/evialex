@@ -41,7 +41,7 @@ const AleX = {
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b></em>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-72%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-74%20hrs%2021%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -86,14 +86,14 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-Python                   11 hrs 41 mins      █████████████████████████   100.00 % 
+Python                   12 hrs 15 mins      █████████████████████████   100.00 % 
 
 🔥 Editors: 
-PyCharm                  9 hrs 56 mins       █████████████████████░░░░   85.06 % 
-VS Code                  1 hr 44 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.94 % 
+PyCharm                  10 hrs 10 mins      █████████████████████░░░░   83.11 % 
+VS Code                  2 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.89 % 
 
 💻 Operating System: 
-Windows                  11 hrs 41 mins      █████████████████████████   100.00 % 
+Windows                  12 hrs 15 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in MATLAB** 
@@ -106,7 +106,7 @@ JavaScript               1 repo              ███████████�
 
 
 
- Last Updated on 20/03/2025 01:48:27 UTC
+ Last Updated on 21/03/2025 01:50:19 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
