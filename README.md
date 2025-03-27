@@ -41,7 +41,7 @@ const AleX = {
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b></em>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-75%20hrs%2019%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-76%20hrs%2059%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -49,7 +49,9 @@ const AleX = {
 
 **🐱 My GitHub Data** 
 
-> 📦 581 Bytes Used in GitHub's Storage 
+> 📦 582 Bytes Used in GitHub's Storage 
+ > 
+> 🏆 0 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -84,18 +86,18 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-Python                   6 hrs 10 mins       █████████████████████████   98.41 % 
-Markdown                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+Python                   4 hrs 18 mins       ████████████████████████░   97.74 % 
+Markdown                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-PyCharm                  4 hrs               ████████████████░░░░░░░░░   63.89 % 
-VS Code                  2 hrs 15 mins       █████████░░░░░░░░░░░░░░░░   36.11 % 
+PyCharm                  3 hrs 20 mins       ███████████████████░░░░░░   75.85 % 
+VS Code                  1 hr 3 mins         ██████░░░░░░░░░░░░░░░░░░░   24.15 % 
 
 💻 Operating System: 
-Windows                  6 hrs 16 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 24 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in MATLAB** 
@@ -108,7 +110,7 @@ JavaScript               1 repo              ███████████�
 
 
 
- Last Updated on 26/03/2025 01:50:16 UTC
+ Last Updated on 27/03/2025 01:49:55 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
