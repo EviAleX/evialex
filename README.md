@@ -41,15 +41,13 @@ const AleX = {
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b></em>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-76%20hrs%2059%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.0%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 582 Bytes Used in GitHub's Storage 
+> 📦 579 Bytes Used in GitHub's Storage 
  > 
 > 🏆 0 Contributions in the Year 2025
  > 
@@ -59,47 +57,6 @@ const AleX = {
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌆 Daytime                22 commits          ████████░░░░░░░░░░░░░░░░░   30.99 % 
-🌃 Evening                45 commits          ████████████████░░░░░░░░░   63.38 % 
-🌙 Night                  4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   31 commits          ███████████░░░░░░░░░░░░░░   43.66 % 
-Tuesday                  34 commits          ████████████░░░░░░░░░░░░░   47.89 % 
-Wednesday                1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
-Thursday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Friday                   5 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.04 % 
-Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Warsaw
-
-💬 Programming Languages: 
-Python                   4 hrs 18 mins       ████████████████████████░   97.74 % 
-Markdown                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
-
-🔥 Editors: 
-PyCharm                  3 hrs 20 mins       ███████████████████░░░░░░   75.85 % 
-VS Code                  1 hr 3 mins         ██████░░░░░░░░░░░░░░░░░░░   24.15 % 
-
-💻 Operating System: 
-Windows                  4 hrs 24 mins       █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in MATLAB** 
 
 ```text
@@ -110,7 +67,7 @@ JavaScript               1 repo              ███████████�
 
 
 
- Last Updated on 27/03/2025 01:49:55 UTC
+ Last Updated on 28/03/2025 01:50:22 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
