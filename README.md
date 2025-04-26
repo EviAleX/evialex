@@ -41,7 +41,7 @@ const AleX = {
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b></em>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-87%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-88%20hrs%2034%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -49,7 +49,7 @@ const AleX = {
 
 **🐱 My GitHub Data** 
 
-> 📦 590 Bytes Used in GitHub's Storage 
+> 📦 591 Bytes Used in GitHub's Storage 
  > 
 > 🏆 0 Contributions in the Year 2025
  > 
@@ -86,15 +86,16 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-Python                   2 hrs 19 mins       █████████████████████████   99.98 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+Python                   3 hrs 5 mins        █████████████████████████   98.94 % 
+Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 
 🔥 Editors: 
-PyCharm                  2 hrs 19 mins       █████████████████████████   99.98 % 
-VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+PyCharm                  2 hrs 32 mins       ████████████████████░░░░░   81.25 % 
+VS Code                  35 mins             █████░░░░░░░░░░░░░░░░░░░░   18.75 % 
 
 💻 Operating System: 
-Windows                  2 hrs 19 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 7 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in MATLAB** 
@@ -107,7 +108,7 @@ JavaScript               1 repo              ███████████�
 
 
 
- Last Updated on 25/04/2025 01:55:35 UTC
+ Last Updated on 26/04/2025 01:51:05 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
