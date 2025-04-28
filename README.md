@@ -41,7 +41,7 @@ const AleX = {
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b></em>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-88%20hrs%2034%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-91%20hrs%2033%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -49,7 +49,7 @@ const AleX = {
 
 **🐱 My GitHub Data** 
 
-> 📦 591 Bytes Used in GitHub's Storage 
+> 📦 592 Bytes Used in GitHub's Storage 
  > 
 > 🏆 0 Contributions in the Year 2025
  > 
@@ -86,17 +86,17 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-Python                   5 hrs 6 mins        ████████████████████████░   97.78 % 
-Text                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+Python                   7 hrs 19 mins       █████████████████████████   98.44 % 
+Text                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 34 mins       █████████████████░░░░░░░░   68.29 % 
-PyCharm                  1 hr 39 mins        ████████░░░░░░░░░░░░░░░░░   31.71 % 
+VS Code                  5 hrs 46 mins       ███████████████████░░░░░░   77.73 % 
+PyCharm                  1 hr 39 mins        ██████░░░░░░░░░░░░░░░░░░░   22.27 % 
 
 💻 Operating System: 
-Windows                  5 hrs 13 mins       █████████████████████████   100.00 % 
+Windows                  7 hrs 26 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in MATLAB** 
@@ -109,7 +109,7 @@ JavaScript               1 repo              ███████████�
 
 
 
- Last Updated on 27/04/2025 02:00:31 UTC
+ Last Updated on 28/04/2025 01:58:34 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
