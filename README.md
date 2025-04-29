@@ -42,7 +42,7 @@ const AleX = {
 
 <!--START_SECTION:waka-->
 
-```python
+```rust
 From: 21 April 2025 - To: 28 April 2025
 
 Total Time: 12 hrs 4 mins
