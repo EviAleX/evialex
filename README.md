@@ -42,19 +42,15 @@ const AleX = {
 
 <!--START_SECTION:waka-->
 
-```rust
-From: 02 October 2023 - To: 28 April 2025
+```python
+From: 21 April 2025 - To: 28 April 2025
 
-Total Time: 98 hrs 16 mins
+Total Time: 12 hrs 4 mins
 
-Python       93 hrs 25 mins  >>>>>>>>>>>>>>>>>>>>>>>>-   94.92 %
-R            2 hrs 11 mins   >------------------------   02.23 %
-Markdown     1 hr 5 mins     -------------------------   01.11 %
-Text         37 mins         -------------------------   00.63 %
-HTML         30 mins         -------------------------   00.52 %
-JavaScript   10 mins         -------------------------   00.18 %
-JSON         10 mins         -------------------------   00.17 %
-Other        9 mins          -------------------------   00.15 %
+Python     11 hrs 56 mins  >>>>>>>>>>>>>>>>>>>>>>>>>   98.75 %
+Text       6 mins          -------------------------   00.84 %
+YAML       2 mins          -------------------------   00.30 %
+Other      0 secs          -------------------------   00.09 %
 ```
 
 <!--END_SECTION:waka-->
