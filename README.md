@@ -42,13 +42,11 @@ const AleX = {
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-104%20hrs%205%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.0%20thousand%20lines%20of%20code-blue)
-
 **🐱 My GitHub Data** 
 
 > 📦 606 Bytes Used in GitHub's Storage 
  > 
-> 🏆 12 Contributions in the Year 2025
+> 🏆 14 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -60,18 +58,18 @@ const AleX = {
 
 ```text
 🌞 Morning                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌆 Daytime                34 commits          ██████████░░░░░░░░░░░░░░░   40.96 % 
-🌃 Evening                45 commits          ██████████████░░░░░░░░░░░   54.22 % 
-🌙 Night                  4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
+🌆 Daytime                36 commits          ███████████░░░░░░░░░░░░░░   42.35 % 
+🌃 Evening                45 commits          █████████████░░░░░░░░░░░░   52.94 % 
+🌙 Night                  4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   31 commits          █████████░░░░░░░░░░░░░░░░   37.35 % 
-Tuesday                  46 commits          ██████████████░░░░░░░░░░░   55.42 % 
-Wednesday                1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
+Monday                   31 commits          █████████░░░░░░░░░░░░░░░░   36.47 % 
+Tuesday                  46 commits          ██████████████░░░░░░░░░░░   54.12 % 
+Wednesday                3 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
 Thursday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Friday                   5 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
+Friday                   5 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
 Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
@@ -98,7 +96,7 @@ Windows                  13 hrs 45 mins      ███████████�
 ```
 
 
- Last Updated on 30/04/2025 13:33:18 UTC
+ Last Updated on 30/04/2025 13:49:54 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
