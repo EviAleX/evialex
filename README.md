@@ -38,7 +38,6 @@ const AleX = {
     funFact: "Debugging in programming was named after the incident mentioned above. Grace Hopper's team removed the moth from the computer and kept it as a specimen in their logbook."
 };
 ```
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b></em>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-104%20hrs%205%20mins-blue)
