@@ -41,13 +41,13 @@ const AleX = {
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b></em>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-98%20hrs%2025%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-103%20hrs%2055%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.0%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 615 Bytes Used in GitHub's Storage 
+> 📦 606 Bytes Used in GitHub's Storage 
  > 
 > 🏆 12 Contributions in the Year 2025
  > 
@@ -84,22 +84,22 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-Python                   11 hrs 56 mins      █████████████████████████   98.75 % 
-Text                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
-YAML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+Python                   13 hrs 36 mins      █████████████████████████   98.90 % 
+Text                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
+YAML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 53 mins       ████████████████░░░░░░░░░   65.20 % 
-PyCharm                  4 hrs 12 mins       █████████░░░░░░░░░░░░░░░░   34.80 % 
+VS Code                  10 hrs 50 mins      ████████████████████░░░░░   78.71 % 
+PyCharm                  2 hrs 55 mins       █████░░░░░░░░░░░░░░░░░░░░   21.29 % 
 
 💻 Operating System: 
-Windows                  12 hrs 5 mins       █████████████████████████   100.00 % 
+Windows                  13 hrs 45 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 30/04/2025 01:55:48 UTC
+ Last Updated on 30/04/2025 13:17:52 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
