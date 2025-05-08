@@ -46,8 +46,6 @@ const AleX = {
 
 > 📦 615 Bytes Used in GitHub's Storage 
  > 
-> 🏆 14 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 5 Public Repositories 
@@ -81,18 +79,18 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-Python                   13 hrs 28 mins      █████████████████████████   100.00 % 
+Python                   10 hrs 21 mins      █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 36 mins       ██████████████░░░░░░░░░░░   56.44 % 
-PyCharm                  5 hrs 52 mins       ███████████░░░░░░░░░░░░░░   43.56 % 
+PyCharm                  5 hrs 42 mins       ██████████████░░░░░░░░░░░   55.06 % 
+VS Code                  4 hrs 39 mins       ███████████░░░░░░░░░░░░░░   44.94 % 
 
 💻 Operating System: 
-Windows                  13 hrs 28 mins      █████████████████████████   100.00 % 
+Windows                  10 hrs 21 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 07/05/2025 01:57:47 UTC
+ Last Updated on 08/05/2025 01:58:38 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
