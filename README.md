@@ -1,5 +1,6 @@
 <h2>Hi there! I'm AleX</h2>
 <img align='right' src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" style="margin-left: 10px;">
+<p><em>Open for hire – available for new projects and roles!</a>
 </br>Student of <a href="https://www.sgh.waw.pl/en">Warsaw School of Economics</a>
 </em></p>
 
@@ -12,8 +13,8 @@
 ```javascript
 const AleX = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Python", "R", "Matlab", "SQL"],
-    askMeAbout: ["web dev", "tech", "data science", "investments"],
+    code: ["Javascript", "Python", "R", "HTML", "CSS", "SQL", "Teradata"],
+    askMeAbout: ["web dev", "tech", "data science", "data engineering"],
     projects: {
         carbonFootprint: {
             projectName: ["Carbon footprint calculations in D-SIB"],
@@ -27,12 +28,17 @@ const AleX = {
         },
         riskAssessment: {
             projectName: ["Climate risk assessment for European bank"],
-            technologies: ["R", "Python", "Jupiter"],
-            tasks: ["Copernicus data base", "Application for physical risk", "Development of heatmaps"]
+            technologies: ["Python", "Jupiter Notebook", "SQLite"],
+            tasks: ["Copernicus data base", "ERA-5", "CMIP6", "Application for physical risk", "Development of heatmaps"]
+        },
+        environmentalDataPipeline: {
+            projectName: ["Automation of Exiobase 3 Environmental Data Processing"],
+            technologies: ["Python", "mariopy/pymrio"],
+            tasks: ["Data extraction", "Data processing", "Code documentation", "Filter interface"]
         },
         otherProject: ["Will come soon!"]
     },
-    interests: ["Calisthenics", "Reading", "Cars and everything about them", "I'am somenthing a cooker myself"],
+    interests: ["Calisthenics", "Guitar", "Cars and everything about them", "Chess", "I'am somenthing a cooker myself"],
     currentProject: "I am developing application which will calculate physical activies for countries based on data base of Copernicus",
     funFact: "Debugging in programming was named after the incident mentioned above. Grace Hopper's team removed the moth from the computer and kept it as a specimen in their logbook."
 };
