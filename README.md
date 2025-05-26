@@ -80,15 +80,15 @@ CSV                      5 mins              ░░░░░░░░░░░�
 PythonStub               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-PyCharm                  15 hrs 30 mins      ████████████████████████░   97.93 % 
-VS Code                  19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
+PyCharm                  15 hrs 31 mins      ████████████████████████░   97.94 % 
+VS Code                  19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
 
 💻 Operating System: 
 Windows                  15 hrs 50 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 25/05/2025 02:08:01 UTC
+ Last Updated on 26/05/2025 02:02:47 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
