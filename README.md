@@ -45,7 +45,7 @@ const AleX = {
 ```
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-171%20hrs%2040%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-175%20hrs%2010%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -88,7 +88,7 @@ Windows                  5 hrs 10 mins       ███████████�
 ```
 
 
- Last Updated on 15/06/2025 02:14:42 UTC
+ Last Updated on 16/06/2025 02:06:24 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
