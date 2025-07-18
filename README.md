@@ -45,7 +45,7 @@ const AleX = {
 ```
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-210%20hrs%2041%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-214%20hrs%207%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -74,19 +74,19 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-Python                   1 hr 22 mins        ████████████████████████░   97.16 % 
-Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
-textmate                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
+Python                   3 hrs 10 mins       ██████████████████████░░░   86.09 % 
+Bash                     22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.97 % 
+textmate                 8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
 
 🔥 Editors: 
-PyCharm                  1 hr 25 mins        █████████████████████████   100.00 % 
+PyCharm                  3 hrs 40 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 25 mins        █████████████████████████   100.00 % 
+Windows                  3 hrs 40 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 17/07/2025 02:09:53 UTC
+ Last Updated on 18/07/2025 02:11:32 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
