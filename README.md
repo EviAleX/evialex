@@ -1,8 +1,8 @@
 <h2>Hi there! I'm AleX</h2>
 <img align='right' src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" style="margin-left: 10px;">
 <p><em>Open for hire – available for new projects and roles!</a>
-</br>Student of <a href="https://www.sgh.waw.pl/en">Warsaw School of Economics</a>
-</em></p>
+<!-- </br>Student of <a href="https://www.sgh.waw.pl/en">Warsaw School of Economics</a>
+</em></p> -->
 
 [![I am rarely here](https://img.shields.io/badge/I_am_rarely_here-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/aleksander.mazur.77)
 [![Work contact](https://img.shields.io/badge/Work_contact-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aleksander-mazur-bb3416253/)
