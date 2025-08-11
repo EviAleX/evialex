@@ -12,33 +12,38 @@
 
 ```javascript
 const AleX = {
-    pronouns: "He" | "Him",
-    code: ["Javascript", "Python", "R", "HTML", "CSS", "SQL", "Teradata"],
-    askMeAbout: ["web dev", "tech", "data science", "data engineering"],
+    programmingLanguages: ["Python", "JavaScript", "SQL", "R", "HTML", "CSS"],
+    databases: ["SQL", "PostgreSQL", "MS SQL", "Teradata", "MongoDB"],
+    cloudComputing: {
+        microsoftAzure: ["Data Factory", "Data Lake Storage", "Functions", "Logic Apps", "Synapse", "API Management"]
+    },
+    dataEngineering: ["Apache Spark", "PySpark", "Databricks", "Apache Airflow"],
+    dataVisualisation: ["PowerBI", "Tableau"],
+    askMeAbout: ["Data Engineering", "AI", "Data Science", "Software Development"],
     projects: {
         carbonFootprint: {
             projectName: ["Carbon footprint calculations in D-SIB"],
-            technologies: ["Teradata SQL Assistant", "MS SQL", "Power BI"],
+            technologies: ["Teradata SQL", "MS SQL", "Power BI"],
             tasks: ["Data quality", "PCAF methodology", "Code documentation"]
-        },
-        physicalRisk: {
-            projectName: ["Calculating Physical Risk for Polish cities"],
-            technologies: ["Python", "Anaconda"],
-            tasks: ["Knowledge of Climada tool", "Calculating Physical risk"]
         },
         riskAssessment: {
             projectName: ["Climate risk assessment for European bank"],
             technologies: ["Python", "Jupiter Notebook", "SQLite"],
-            tasks: ["Copernicus data base", "ERA-5", "CMIP6", "Application for physical risk", "Development of heatmaps"]
+            tasks: ["Copernicus", "OpenStreetMap", "ERA-5", "CMIP6", "Application for physical risk", "Development of heatmaps"]
         },
-        environmentalDataPipeline: {
+        environmentalDataProcessing: {
             projectName: ["Automation of Exiobase 3 Environmental Data Processing"],
             technologies: ["Python", "mariopy/pymrio"],
             tasks: ["Data extraction", "Data processing", "Code documentation", "Filter interface"]
         },
+        customerDataPipeline: {
+            projectName: ["Customer Data Pipeline for E-Commerce Personalization"],
+            technologies: ["Python", "SQL", "NoSQL", "API", "Microsoft Azure", "PySpark", "Databricks", "PowerBI"],
+            tasks: ["ETL workflows using Python and SQL", "ADF pipeline to integrate data", "Data transformations using Spark", "PowerBI dashboards"]
+        },
         otherProject: ["Will come soon!"]
     },
-    interests: ["Calisthenics", "Guitar", "Cars and everything about them", "Chess", "I'am somenthing a cooker myself"],
+    interests: ["Gym", "Guitar", "Cars and everything about them", "Chess", "I'm something a cook myself"],
     currentProject: "I am developing application which will calculate physical activies for countries based on data base of Copernicus",
     funFact: "Debugging in programming was named after the incident mentioned above. Grace Hopper's team removed the moth from the computer and kept it as a specimen in their logbook."
 };
