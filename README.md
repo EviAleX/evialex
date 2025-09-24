@@ -13,13 +13,15 @@
 
 ```javascript
 const AleX = {
-    programmingLanguages: ["Python", "JavaScript", "SQL", "R", "HTML", "CSS"],
-    databases: ["SQL", "PostgreSQL", "MS SQL", "Teradata", "MongoDB"],
+    programmingLanguages: ["Python", "JavaScript", "SQL", "R"],
+    databases: ["PostgreSQL", "MS SQL", "Snowflake", "MongoDB"],
     cloudComputing: {
-        microsoftAzure: ["Data Factory", "Data Lake Storage", "Functions", "Logic Apps", "Synapse", "API Management"]
+        microsoftAzure: ["ADF", "ADLS Gen2", "Fabric", "Functions", "Logic Apps", "Synapse", "API Management", "Key Vault"]
     },
-    dataEngineering: ["Apache Spark", "PySpark", "Databricks", "Apache Airflow"],
+    dataEngineering: ["Apache Spark", "PySpark", "Databricks", "Apache Airflow", "dbt"],
     dataVisualisation: ["PowerBI", "Tableau"],
+    devOps: ["Docker", "Docker Compose"],
+    versionControl: ["Git", "Azure DevOps"]
     askMeAbout: ["Data Engineering", "AI", "Data Science", "Software Development"],
     projects: {
         carbonFootprint: {
