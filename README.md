@@ -21,7 +21,7 @@ const AleX = {
     dataEngineering: ["Apache Spark", "PySpark", "Databricks", "Apache Airflow", "dbt"],
     dataVisualisation: ["PowerBI", "Tableau"],
     devOps: ["Docker", "Docker Compose"],
-    versionControl: ["Git", "Azure DevOps"]
+    versionControl: ["Git", "Azure DevOps"],
     askMeAbout: ["Data Engineering", "AI", "Data Science", "Software Development"],
     projects: {
         carbonFootprint: {
