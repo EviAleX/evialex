@@ -53,7 +53,7 @@ const AleX = {
 ```
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-242%20hrs%2041%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-242%20hrs%2043%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -82,18 +82,19 @@ Sunday                   4 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-Python                   0 secs              █████████████████████████   98.91 % 
-textmate                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
+Python                   2 mins              █████████████████████████   99.97 % 
+textmate                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-PyCharm                  0 secs              █████████████████████████   100.00 % 
+VS Code                  1 min               ████████████████████████░   96.94 % 
+PyCharm                  0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
 
 💻 Operating System: 
-Windows                  0 secs              █████████████████████████   100.00 % 
+Windows                  2 mins              █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 26/09/2025 01:49:48 UTC
+ Last Updated on 27/09/2025 01:45:28 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
