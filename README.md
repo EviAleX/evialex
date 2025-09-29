@@ -53,8 +53,46 @@ const AleX = {
 ```
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-243%20hrs%207%20mins-blue)
 
- Last Updated on 28/09/2025 01:59:01 UTC
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                7 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
+🌆 Daytime                86 commits          █████████████░░░░░░░░░░░░   50.89 % 
+🌃 Evening                65 commits          ██████████░░░░░░░░░░░░░░░   38.46 % 
+🌙 Night                  11 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.51 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   70 commits          ██████████░░░░░░░░░░░░░░░   41.42 % 
+Tuesday                  61 commits          █████████░░░░░░░░░░░░░░░░   36.09 % 
+Wednesday                8 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
+Thursday                 1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
+Friday                   23 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.61 % 
+Saturday                 2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
+Sunday                   4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Warsaw
+
+💬 Programming Languages: 
+Python                   25 mins             █████████████████████████   100.00 % 
+
+🔥 Editors: 
+VS Code                  25 mins             █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  25 mins             █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 29/09/2025 01:53:12 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
