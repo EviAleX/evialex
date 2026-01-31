@@ -82,21 +82,17 @@ Sunday                   4 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-Python                   2 hrs 24 mins       █████████████████████░░░░   83.04 % 
-YAML                     16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.27 % 
-JSON                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.98 % 
-CSV                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
-Groovy                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 hrs 53 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  2 hrs 53 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 30/01/2026 02:35:49 UTC
+ Last Updated on 31/01/2026 02:31:42 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
