@@ -55,49 +55,8 @@ const AleX = {
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-455%20hrs%2059%20mins-blue?style=flat)
 
-**I'm an Early 🐤** 
 
-```text
-🌞 Morning                7 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
-🌆 Daytime                86 commits          ████████████░░░░░░░░░░░░░   50.00 % 
-🌃 Evening                67 commits          ██████████░░░░░░░░░░░░░░░   38.95 % 
-🌙 Night                  12 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   70 commits          ██████████░░░░░░░░░░░░░░░   40.70 % 
-Tuesday                  63 commits          █████████░░░░░░░░░░░░░░░░   36.63 % 
-Wednesday                8 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
-Thursday                 2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
-Friday                   23 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
-Saturday                 2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
-Sunday                   4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Warsaw
-
-💬 Programming Languages: 
-YAML                     4 hrs 7 mins        ████████░░░░░░░░░░░░░░░░░   31.59 % 
-Python                   3 hrs 47 mins       ███████░░░░░░░░░░░░░░░░░░   29.00 % 
-Bash                     2 hrs 42 mins       █████░░░░░░░░░░░░░░░░░░░░   20.70 % 
-Groovy                   1 hr 54 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.60 % 
-CSV                      19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
-
-🔥 Editors: 
-VS Code                  13 hrs 1 min        █████████████████████████   99.67 % 
-PyCharm                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
-
-💻 Operating System: 
-Windows                  13 hrs 4 mins       █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 16/03/2026 03:17:18 UTC
+ Last Updated on 17/03/2026 02:40:51 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
