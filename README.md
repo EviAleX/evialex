@@ -53,7 +53,7 @@ const AleX = {
 ```
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-471%20hrs%208%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-472%20hrs%2029%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -82,21 +82,21 @@ Sunday                   4 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-Groovy                   1 hr 3 mins         █████████░░░░░░░░░░░░░░░░   37.84 % 
-Python                   56 mins             ████████░░░░░░░░░░░░░░░░░   33.90 % 
-YAML                     31 mins             █████░░░░░░░░░░░░░░░░░░░░   18.93 % 
-Bash                     15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.33 % 
+Groovy                   1 hr 3 mins         ██████████████░░░░░░░░░░░   57.57 % 
+YAML                     19 mins             █████░░░░░░░░░░░░░░░░░░░░   18.04 % 
+Bash                     14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.27 % 
+Python                   12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.12 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 47 mins       █████████████████████████   99.86 % 
-PyCharm                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+VS Code                  1 hr 50 mins        █████████████████████████   99.79 % 
+PyCharm                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 
 💻 Operating System: 
-Windows                  2 hrs 47 mins       █████████████████████████   100.00 % 
+Windows                  1 hr 50 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 31/03/2026 02:54:28 UTC
+ Last Updated on 01/04/2026 03:25:36 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
