@@ -53,50 +53,8 @@ const AleX = {
 ```
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-550%20hrs%2012%20mins-blue?style=flat)
 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                7 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
-🌆 Daytime                86 commits          ████████████░░░░░░░░░░░░░   48.86 % 
-🌃 Evening                71 commits          ██████████░░░░░░░░░░░░░░░   40.34 % 
-🌙 Night                  12 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   70 commits          ██████████░░░░░░░░░░░░░░░   39.77 % 
-Tuesday                  63 commits          █████████░░░░░░░░░░░░░░░░   35.80 % 
-Wednesday                11 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-Thursday                 2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
-Friday                   24 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
-Saturday                 2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
-Sunday                   4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Warsaw
-
-💬 Programming Languages: 
-Groovy                   5 hrs 8 mins        ████████████░░░░░░░░░░░░░   49.76 % 
-Python                   1 hr 32 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.98 % 
-JSON                     1 hr 30 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.64 % 
-Bash                     51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 % 
-YAML                     36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
-
-🔥 Editors: 
-VS Code                  10 hrs 19 mins      █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Linux                    10 hrs 19 mins      █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 28/05/2026 04:12:07 UTC
+ Last Updated on 29/05/2026 04:14:01 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
