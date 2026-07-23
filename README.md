@@ -82,17 +82,18 @@ Sunday                   4 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 12 mins             ██████████████░░░░░░░░░░░   57.28 % 
+Other                    9 mins              ███████████░░░░░░░░░░░░░░   42.72 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  22 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      22 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 22/07/2026 03:20:23 UTC
+ Last Updated on 23/07/2026 03:27:08 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
