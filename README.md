@@ -54,45 +54,8 @@ const AleX = {
 ```
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
 
-```text
-🌞 Morning                7 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 % 
-🌆 Daytime                86 commits          ████████████░░░░░░░░░░░░░   48.04 % 
-🌃 Evening                74 commits          ██████████░░░░░░░░░░░░░░░   41.34 % 
-🌙 Night                  12 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.70 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   70 commits          ██████████░░░░░░░░░░░░░░░   39.11 % 
-Tuesday                  63 commits          █████████░░░░░░░░░░░░░░░░   35.20 % 
-Wednesday                11 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
-Thursday                 5 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
-Friday                   24 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.41 % 
-Saturday                 2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
-Sunday                   4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Warsaw
-
-💬 Programming Languages: 
-Markdown                 12 mins             ██████████████░░░░░░░░░░░   57.28 % 
-Other                    9 mins              ███████████░░░░░░░░░░░░░░   42.72 % 
-
-🔥 Editors: 
-VS Code                  22 mins             █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Mac                      22 mins             █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 24/07/2026 03:20:59 UTC
+ Last Updated on 25/07/2026 03:19:28 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
