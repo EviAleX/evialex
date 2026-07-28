@@ -54,7 +54,9 @@ const AleX = {
 ```
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-596%20hrs%2030%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-589%20hrs%2043%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-87%20hrs%2013%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -93,8 +95,30 @@ VS Code                  22 mins             ███████████�
 Mac                      22 mins             █████████████████████████   100.00 % 
 ```
 
+🤖 **AI Coding This Week** 
 
- Last Updated on 27/07/2026 03:41:03 UTC
+```text
+⏱ AI Coding Time: 22 mins (100.0%)
+
+✍️ 397 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 759,214 Input Tokens, 5,915 Output Tokens
+
+💵 $3.97 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 8 AI Prompts
+
+GPT                      397 lines           █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 140 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
+```
+
+
+ Last Updated on 28/07/2026 03:12:56 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
