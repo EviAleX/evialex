@@ -85,40 +85,23 @@ Sunday                   4 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-Python                   22 mins             ██████████████████░░░░░░░   72.62 % 
-HTML                     8 mins              ███████░░░░░░░░░░░░░░░░░░   27.38 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  31 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      31 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 21 mins (67.4%)
-
-✍️ 36 lines written by AI, 6 lines written by hand (85.71% AI-written)
-
-🔤 9,317,258 Input Tokens, 103,007 Output Tokens
-
-💵 $49.68 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 7 AI Prompts
-
-GPT                      36 lines            █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 85.71% of written lines came from AI
-📝 Concise Prompter — average 149 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 14.29% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 04/08/2026 03:16:32 UTC
+ Last Updated on 05/08/2026 02:57:12 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
